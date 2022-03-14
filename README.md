@@ -11,3 +11,4 @@ this as a differentiating factor between candidates, to ensure that they recruit
 the best candidates for their organization. The work is done on Google colab
 with Python 3 and OpenCV libraries
 
+Follow this link https://www.kaggle.com/codebreaker619/face-landmark-shape-predictor to download dependencies for Blink Detection module.
